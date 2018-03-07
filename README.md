@@ -1,2 +1,2 @@
-# c-programs
-all my programs written in c
+# Coding competition 
+All the questions solved in competition.
